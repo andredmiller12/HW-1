@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class ProductInventory{
+    private Vector<Product> products;
+    
+    public ProductInventory(){
+        this.products = new Vector<>();
+    }
+}
